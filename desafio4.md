@@ -31,7 +31,7 @@ Exemplos de perguntas importantes:
     - *Yarn - gerenciamento de pacotes*
     - *Webpack - module bundler*
     - *eslint - padronização de código*
-    - [*Git](https://github.com/douglasocandido/desafioBeerTechAula4) - versionamento*
+    - *Git - versionamento*
 - **Quais componentes visuais existirão?**
     1. Card
     2. Campo de busca
