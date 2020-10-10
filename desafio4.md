@@ -43,5 +43,5 @@ Exemplos de perguntas importantes:
     8. Banner
     9. Footer
 - **Como será a interação entre Frontend e Backend?**
-    - http request.
+    - HTTP Request.
     - API geolocalização.
